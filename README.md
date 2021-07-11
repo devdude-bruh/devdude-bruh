@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**lurkin-dev/lurkin-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### hi
+hello i'm lurkin and i do computer
+## what you do
+clone stuff
+## why??????????????????????????????
+is cool
+## you nice?????
+yes, i am a nice guy
+## pee?
+no pls
+## sussy
+<img src="https://cdn.discordapp.com/attachments/606640671788630026/863688144658759690/Screen_Shot_2021-07-11_at_2.38.50_AM.png">
