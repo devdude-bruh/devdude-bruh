@@ -9,4 +9,4 @@ yes, i am a nice guy
 ## pee?
 no pls
 ## sussy
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pa-parappa)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pa-parappa)](https://github.com/anuraghazra/github-readme-stats)
