@@ -9,5 +9,4 @@ yes, i am a nice guy
 ## pee?
 no pls
 ## sussy
-<img src="https://cdn.discordapp.com/attachments/606640671788630026/863688144658759690/Screen_Shot_2021-07-11_at_2.38.50_AM.png">
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=pa-parappa)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pa-parappa)](https://github.com/anuraghazra/github-readme-stats)
