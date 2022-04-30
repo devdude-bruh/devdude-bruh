@@ -7,4 +7,4 @@ cause im cool😎
 ## you nice?????
 yes, i am a nice guy
 ## stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pa-parappa)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruhdude-dev)](https://github.com/anuraghazra/github-readme-stats)
