@@ -1,12 +1,10 @@
 ### hi
-hello i'm pa_parappa and i do computer
+hello i'm bruhdude and i do computer
 ## what you do
-i did clone stuff, but now i do other things in php
+i did clone stuff, but now i do other things in php, scratch, and oddr stuff
 ## why??????????????????????????????
-is cool
+cause im cool😎
 ## you nice?????
 yes, i am a nice guy
-## pee?
-no pls
-## sussy
+## stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pa-parappa)](https://github.com/anuraghazra/github-readme-stats)
