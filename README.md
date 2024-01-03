@@ -1,8 +1,8 @@
 ### Hi!
-I'm bruhdude, a guy who codes.
-## What stuff do you code?
-I code random PHP websites, Miiverse Clones, and some other stuff. 
-## why clone????????????????????????????
-cause im cool😎
-## you nice?????
-Y e s .
+I'm wiiudude, a guy who codes.
+## What do you do?
+I code random PHP websites, make stupid JS/Scratch games, and other stuff
+## oh wait havent you had a history with clones
+stop
+## are you cool?????
+y e s .
